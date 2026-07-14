@@ -198,6 +198,6 @@ After completing this project, you will understand:
 
 **Language:** Python
 
-**Project:** Data Analyzer and Transformer Program
+**Project:** Function Treat
 
 ---
