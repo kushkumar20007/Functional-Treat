@@ -144,23 +144,6 @@ Ends the application.
 
 ---
 
-# ▶️ How to Run
-
-1. Install Python 3.
-2. Save the program as:
-
-```
-data_analyzer.py
-```
-
-3. Open Terminal or Command Prompt.
-
-4. Run:
-
-```bash
-python data_analyzer.py
-```
-
 ---
 
 # 📋 Main Menu
@@ -180,24 +163,7 @@ python data_analyzer.py
 # 📂 Sample Output
 
 ```
-Welcome to the Data Analyzer and Transformer Program
 
-Main Menu
-
-1. Input Data
-2. Display Data Summary
-3. Calculate Factorial
-4. Filter Data by Threshold
-5. Sort Data
-6. Display Dataset Statistics
-7. Exit Program
-
-Enter your choice: 1
-
-Enter data:
-10 20 30 40 50
-
-Data has been stored successfully!
 ```
 
 ---
