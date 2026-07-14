@@ -1,4 +1,4 @@
-# 📊 Data Analyzer and Transformer Program
+# 📊 Function Treat
 
 ## 📌 Project Description
 The **Data Analyzer and Transformer Program** is a Python console application that allows users to input numerical data and perform different operations such as data analysis, factorial calculation, filtering, sorting, and statistical analysis.
