@@ -157,6 +157,10 @@ Ends the application.
 6. Display Dataset Statistics
 7. Exit Program
 ```
+## 🎥 Video Demonstration
+
+[![Watch Video](https://img.shields.io/badge/🎥-Watch_Video-red?style=for-the-badge)](video)
+
 
 ---
 
