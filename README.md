@@ -160,9 +160,13 @@ Ends the application.
 
 ---
 
-# 📂 Sample Output
+# 📂 Output
+
+<img width="895" height="834" alt="image" src="https://github.com/user-attachments/assets/cf85c8b5-bbe5-41ad-885a-ba587ddf7431" />
 
 ```
+
+
 
 ```
 
